@@ -1,4 +1,8 @@
-![Banner](main.jpeg)
+<!-- ![Banner](main_image.jpeg) -->
+
+<div> 
+<img src="main_imge.jpeg" />
+</div>
 
 <h1 align="center">Hello there 👋, I'm Aroosh Ahmad</h1>
 <h3 align="center">AI Specialist | .Net Core & .Net MVC Developer | React & Django Developer | Full Stack Web & AI Developer</h3>
