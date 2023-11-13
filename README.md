@@ -70,7 +70,7 @@ Eager to collaborate on projects requiring a strategic blend of cutting-edge tec
 ---
 
 🖥 **Previous Experience:**
-- Software Engineer at Highbit Games. [Add brief description here]
+- Software Engineer at Highbit Games. 
 
 ---
 
