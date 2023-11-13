@@ -48,8 +48,10 @@ Dynamic professional specialized in AI and web development. Leveraging a strong 
 
 📂 **Projects:**
 
+- [BRITS](https://britsdev.wisconsin.gov/)
+- [DIGITHO](https://digitho.com/)
 - [Sensaware](http://www.sensaware.io/)
-- [GoIndia](https://goindia.care/)
+<!-- - [GoIndia](https://goindia.care/) -->
 
 ---
 
