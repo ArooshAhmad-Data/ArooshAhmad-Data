@@ -76,11 +76,11 @@ Eager to collaborate on projects requiring a strategic blend of cutting-edge tec
 
 📂 **Projects:**
 - [BRITS](https://britsdev.wisconsin.gov/)
-    - Brief description or highlights.
+    <!-- - Brief description or highlights. -->
 - [DIGITHO](https://digitho.com/)
-    - Brief description or highlights.
+    <!-- - Brief description or highlights. -->
 - [Sensaware](http://www.sensaware.io/)
-    - Brief description or highlights.
+    <!-- - Brief description or highlights. -->
 
 ---
 
